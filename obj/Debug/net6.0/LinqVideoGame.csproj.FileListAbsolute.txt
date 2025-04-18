@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\LinqVideoGame\bin\Debug\net6.0\LinqVideoGame.exe
+C:\Users\PC\source\repos\LinqVideoGame\bin\Debug\net6.0\LinqVideoGame.deps.json
+C:\Users\PC\source\repos\LinqVideoGame\bin\Debug\net6.0\LinqVideoGame.runtimeconfig.json
+C:\Users\PC\source\repos\LinqVideoGame\bin\Debug\net6.0\LinqVideoGame.dll
+C:\Users\PC\source\repos\LinqVideoGame\bin\Debug\net6.0\LinqVideoGame.pdb
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.AssemblyInfo.cs
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.dll
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\refint\LinqVideoGame.dll
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.pdb
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\LinqVideoGame.genruntimeconfig.cache
+C:\Users\PC\source\repos\LinqVideoGame\obj\Debug\net6.0\ref\LinqVideoGame.dll
